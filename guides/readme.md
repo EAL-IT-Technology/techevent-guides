@@ -12,4 +12,10 @@ The process is as follows:
 
 5) Go <a href="howto_get_events_on_info_screens.md">here</a> to put it on the info screens
 
+6) Put it on Fronter
+
+7) get it in fyntech.dk calendar
+
+7) If applicable, order coffee
+
 6) have fun
