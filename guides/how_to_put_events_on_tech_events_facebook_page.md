@@ -28,3 +28,9 @@ It is located <a href="https://www.facebook.com/pg/EALTechEvents/events/?ref=pag
         Regards
 
         <your names>
+
+2) Jonas will create the event and send you a link when he is done
+
+3) Go to the event and write that you are going
+
+    This help boosting the event, and make it more visible.
