@@ -16,6 +16,8 @@ The process is as follows:
 
 7) get it in fyntech.dk calendar
 
+8) put it in the calendar on <a href="https://connect.eal.dk/Lists/Events/calendar.aspx">connect</a>
+
 7) If applicable, order coffee
 
 6) have fun
