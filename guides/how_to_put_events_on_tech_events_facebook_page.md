@@ -4,7 +4,7 @@ how to put events on tech events facebook page
 We have Jonas to handle our teche events facebook page.
 It is located <a href="https://www.facebook.com/pg/EALTechEvents/events/?ref=page_internal">here</a>.
 
-1) Send an email to <a href="Jonas Laursen <joamla96@gmail.com">Jonas</a> with the content
+1) Send an email to <a href="mailto: Jonas Laursen <joamla96@gmail.com">Jonas</a> with the content
 
     Subject:
 
