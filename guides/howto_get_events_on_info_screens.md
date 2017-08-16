@@ -14,7 +14,7 @@ Go through these steps to get your tech event on the info screens
     * Tech talks
     * Gamejam
 
-2. Send an email to Britt in communucation with this content
+2. Send an email to <a href="mailto:brmi@eal.dk">Britt</a> in communucation with this content
 
     Subject: 
 
