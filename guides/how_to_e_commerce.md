@@ -7,7 +7,9 @@ Channels:
 * IT-fyn
 * linked-in
 * facebook: EAL studerende, e-commerce, EAL general
-* PROSA?
+* PROSA
+* samdata
+* technology denmark
 * other?
 
 1) Fill out the PDF template found _here_
