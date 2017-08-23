@@ -6,17 +6,15 @@ On EAL campus we have large info screens for general information to the students
 Go through these steps to get your tech event on the info screens
 
 
-1. Formulate three lines of information text to be shown on the template
+1. Check that there is a template for your type of event. If not contact us.
 
-2. Check that there is a template for your type of event. If not contact us.
+    Templates are located [here](infoscreen_templates)
 
-    Current templates are:
-    * Tech talks
-    * Gamejam
+2. Formulate three lines of information text to be shown on the template
 
 2. Send an email to <a href="mailto:brmi@eal.dk">Britt</a> in communucation with this content
 
-    Subject: 
+    Subject:
 
         Techevents <type> the <date>
 
@@ -38,8 +36,7 @@ Go through these steps to get your tech event on the info screens
         Regards
 
         <your names>
-   
+
 3. Britt will get back to you with the image to be put on the infor screens for you acceptance.
 
    Be patient. We all have a lot of work to do :-)
-   
