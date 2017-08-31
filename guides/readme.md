@@ -14,6 +14,8 @@ The process is as follows:
 
 6) Put it on Fronter
 
+7) Inform facilities
+
 7) get it in fyntech.dk calendar
 
 8) put it in the calendar on <a href="https://connect.eal.dk/Lists/Events/calendar.aspx">connect</a>
