@@ -1,7 +1,7 @@
 How to create a meetup
 ============================
 
-We do the official info page on [https://www.meetup.com/EAL-tech-events/](meetup.com) - that includes signing up for events.
+We do the official info page on [meetup.com](https://www.meetup.com/EAL-tech-events/) - that includes signing up for events.
 
 The description to be used below, could be following the template:
 * who are we (might no be relevant in most contexts)
@@ -11,7 +11,7 @@ The description to be used below, could be following the template:
 * call to action (aka. how to sign sign up now)
 
 
-2. Send an email to <a href:"mailto:mon@eal.dk">Morten</a> with the content
+2. Send an email to [Morten](mailto:mon@eal.dk) with the content
 
     Subject:
 
