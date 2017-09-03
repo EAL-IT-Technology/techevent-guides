@@ -11,7 +11,7 @@ The description to be used below, could be following the template:
 * call to action (aka. how to sign sign up now)
 
 
-2. Send an email to [Morten](mailto:mon@eal.dk) with the content
+1) Send an email to [Morten](mailto:mon@eal.dk) with the content
 
     Subject:
 
