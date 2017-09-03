@@ -4,7 +4,9 @@ The process is as follows:
 
 1) Decide on an events and a date
 
-2) create a meetup
+    Consider concept, target audience, time and place.
+
+2) Go [here](how_to_create_a_meetup.md) to create a meetup
 
 3) Go <a href="how_to_put_events_on_tech_events_facebook_page.md">here</a> to put it on the facebook page
 
