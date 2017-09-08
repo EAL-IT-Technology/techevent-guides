@@ -20,7 +20,7 @@ The process is as follows:
 
 7) get it in fyntech.dk calendar
 
-8) put it in the calendar on <a href="https://connect.eal.dk/Lists/Events/calendar.aspx">connect</a>
+8) Go [here](how_to_put_event_on_connect.md) to put it in the calendar on connect
 
 7) If applicable, order coffee
 
