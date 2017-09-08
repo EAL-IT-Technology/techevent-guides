@@ -16,7 +16,7 @@ The process is as follows:
 
 6) Put it on Fronter
 
-7) Inform facilities
+7) Go <a href="how_to_inform_facility.md">here</a> to inform facilities
 
 7) get it in fyntech.dk calendar
 
