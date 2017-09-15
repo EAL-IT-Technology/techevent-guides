@@ -47,7 +47,7 @@ At the bottom of the mail, there is a list of who to contact in order to get acc
         Som aftalt regner vi med følgende
 
           MON: IT technology net, semesters 1-3
-          TOZL: Datamatiker, klasser?, semestre?
+          TOZL: Alle datamatiker klasser og PBa i softwareudvikling
           MATI: Digital Konceptudvikling (opbdc17fintC)
 
         Passer ovenstående ikke, så skal det selvfølgeligt rettes - så send en mail så dete kan blive rigtigt.
