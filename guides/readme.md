@@ -8,11 +8,11 @@ The process is as follows:
 
 2) Go [here](how_to_create_a_meetup.md) to create a meetup
 
-3) Go <a href="how_to_put_events_on_tech_events_facebook_page.md">here</a> to put it on the facebook page
+3) Go [here](how_to_put_events_on_tech_events_facebook_page.md) to put it on the facebook page
 
-4) Go <a href="how_to_e_commerce.md">here</a> to distribute it through our channels
+4) ~~Go [here](how_to_e_commerce.md) to distribute it through our channels~~ WIP
 
-5) Go <a href="howto_get_events_on_info_screens.md">here</a> to put it on the info screens
+5) Go [here](howto_get_events_on_info_screens.md) to put it on the info screens
 
 6) Go [here](how_to_out_stuff_on_fronter.md) to pu stuff on Fronter
 
