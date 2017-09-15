@@ -14,7 +14,7 @@ The process is as follows:
 
 5) Go <a href="howto_get_events_on_info_screens.md">here</a> to put it on the info screens
 
-6) Put it on Fronter
+6) Go [here](how_to_out_stuff_on_fronter.md) to pu stuff on Fronter
 
 7) Go [here](how_to_inform_facility.md) to inform facilities
 
