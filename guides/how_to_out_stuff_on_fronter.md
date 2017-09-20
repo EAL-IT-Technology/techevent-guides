@@ -6,7 +6,7 @@ Different classes have different fronter rooms, and we have a lot of classes. An
 
 At the bottom of the mail, there is a list of who to contact in order to get access to a specific class.
 
-1. send an email to [these people](mailto:tozl@eal.dk,mati@eal.dk,mon@eal.dk,kecl@eal.dk)
+1. send an email to [these people](mailto:tozl@eal.dk,mati@eal.dk,mon@eal.dk,kecl@eal.dk,anni@eal.dk)
 
       Subject: 
 
@@ -50,6 +50,7 @@ At the bottom of the mail, there is a list of who to contact in order to get acc
           TOZL: Alle datamatiker klasser og PBa i softwareudvikling
           MATI: Digital Konceptudvikling (opbdc17fintC)
           KECL: Multimedie designer, oeamm17edc og oeamm17edd
+          ANNI: Multimedie designer, oeamm17eda og oeamm17edb
 
         Passer ovenstående ikke, så skal det selvfølgeligt rettes - så send en mail så dete kan blive rigtigt.
 
