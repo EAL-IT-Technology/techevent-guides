@@ -2,11 +2,11 @@ How to put stuff on fronter and/or pitching in classes
 ============================================================
 
 
-Different classes have different fronter rooms, and we have a lot of classes. And only people in the calss or their teachers have access - so we enlisted some help.
+Different classes have different fronter rooms, and we have a lot of classes. And only people in the class or their teachers have access - so we enlisted some help.
 
 At the bottom of the mail, there is a list of who to contact in order to get access to a specific class.
 
-1. send an email to [these people](mailto:tozl@eal.dk,mati@eal.dk,mon@eal.dk,kecl@eal.dk,anni@eal.dk)
+1. send an email to [these people](mailto:tozl@eal.dk,mati@eal.dk,mon@eal.dk,kecl@eal.dk,anng@eal.dk)
 
       Subject: 
 
@@ -50,7 +50,7 @@ At the bottom of the mail, there is a list of who to contact in order to get acc
           TOZL: Alle datamatiker klasser og PBa i softwareudvikling
           MATI: Digital Konceptudvikling (opbdc17fintC)
           KECL: Multimedie designer, oeamm17edc og oeamm17edd
-          ANNI: Multimedie designer, oeamm17eda og oeamm17edb
+          ANNG: Multimedie designer, oeamm17eda og oeamm17edb
 
         Passer ovenstående ikke, så skal det selvfølgeligt rettes - så send en mail så dete kan blive rigtigt.
 
