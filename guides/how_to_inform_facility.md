@@ -23,6 +23,7 @@ The aggreement with facility services is that we tell them when we have events, 
         * windows are not to be opened
         * only the front doors are to be used
         * they are not to be kept open for more than ½-1 minute.
+        * we are not allowed to sleep at school
 
         This is something we will inform the participants about.
 
