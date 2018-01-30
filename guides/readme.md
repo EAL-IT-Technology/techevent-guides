@@ -18,7 +18,7 @@ The process is as follows:
 
 7) Go [here](how_to_inform_facility.md) to inform facilities
 
-7) Go [here](how_to_put_the_event_on_fyntech_dk.md) to put it in fyntech.dk calendar
+7) ~~Go [here](how_to_put_the_event_on_fyntech_dk.md) to put it in fyntech.dk calendar~~ Fyntech.dk now pulls directly from meetup.
 
 8) Go [here](how_to_put_event_on_connect.md) to put it in the calendar on connect
 
