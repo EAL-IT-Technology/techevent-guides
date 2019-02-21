@@ -26,7 +26,8 @@ The aggreement with facility services is that we tell them when we have events, 
             * phone number: <number>
             * email: <UCL email adress>
         
-        If there are any issues, we will be available using the above contact points for the duration of the event. We will also maintain a list of external people attending the event.
+        If there are any issues, we will be available using the above contact points for the duration of the event. 
+        We will also maintain a list of external people attending the event.
         
 
         We know that 
