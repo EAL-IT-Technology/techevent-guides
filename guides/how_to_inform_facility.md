@@ -15,9 +15,19 @@ The aggreement with facility services is that we tell them when we have events, 
         Dear Facility
 
         We would like to inform you that we have an event on the weekend the <from date> to <end date>
+
+        We expect to be around <number> people and will primarily be at <building and floor number>.
         
-        The contact person for this event is <name>, and he may be reached on <phone number>
-        We expect to be around <number> people and will primarily be at <building and floor number>
+        The responsible UCL representative are
+        * <name>, <class>/<position>
+            * phone number: <number>
+            * email: <UCL email adress>
+        * <name>, <class>/<position>
+            * phone number: <number>
+            * email: <UCL email adress>
+        
+        If there are any issues, we will be available using the above contact points for the duration of the event. We will also maintain a list of external people attending the event.
+        
 
         We know that 
         * windows are not to be opened
